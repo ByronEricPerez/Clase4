@@ -36,7 +36,7 @@ function obtenerPrecioProducto (){
 }
 
 function obtenerIvaProducto (){
-    iva = parseFloat(prompt("Precio producto"));
+    iva = parseFloat(prompt("Iva del producto"));
 
 }
 
